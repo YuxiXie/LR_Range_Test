@@ -2,4 +2,4 @@
 Use LR range test to train LeNet5 on MNIST
 
 
-Please read `report.pdf` for details.
+Please refer to `report.pdf` for details.
